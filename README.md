@@ -1,2 +1,2 @@
-# hackerrank_java_exercises
+# Hackerrank Java exercises
 Java trainig exercises
